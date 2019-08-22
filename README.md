@@ -31,4 +31,17 @@ Start sending the image as a client in base 64 format
 Tensorflow Serving Docker
 <img src="https://i.imgur.com/knGYEXA.png" border=0>
 
+Starting flask server
+
+<img src="https://i.imgur.com/oli4ac3.png" border=0>
+<img src="https://i.imgur.com/yf8B3b1.png" border=0>
+
+Frontend Client 
+
+<img src="https://i.imgur.com/Bi5BVT1.png" border=0>
+
+
+
+
+
 
