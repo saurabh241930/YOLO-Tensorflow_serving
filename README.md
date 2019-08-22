@@ -26,4 +26,9 @@ Start sending the image as a client in base 64 format
 
 **`S:~/Documents/submission$ python base64_request.py -i uploaded.jpg`**
 
+## Screenshot
+
+Tensorflow Serving Docker
+<img src="https://i.imgur.com/knGYEXA.png" border=0>
+
 
