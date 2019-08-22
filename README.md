@@ -26,6 +26,8 @@ Start sending the image as a client in base 64 format
 
 **`S:~/Documents/submission$ python base64_request.py -i uploaded.jpg`**
 
+API endpoint of this backend can be found at **`http://localhost:5000/yolo/predict/`**
+
 ## Screenshot
 
 Tensorflow Serving Docker
